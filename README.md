@@ -5,7 +5,8 @@ Since I was in engineering,⚙ I always found myself more involved in analytical
 I am currently working through the #66dayofdata challenge ✌ proposed by Ken Jee as well as got
 enrolled in Analytics 360 Training at Analytics Training Institute Bangalore.
 
-Please visit my portfolio site to check out some of the projects I did
+Please visit my portfolio site to check out some of the projects I did:
+
 https://shreyaskulkarni.hashnode.dev/-portfolio
 
 Thanks for your time and consideration.
