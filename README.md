@@ -6,8 +6,4 @@ Join me on this quest to unlock the potential of data. Let's collaborate, share 
 
 Feel free to connect with me and share your own insights:
 
-LinkedIn: linkedin.com/in/helloshreyas/
-
-Twitter: twitter.com/helloshreyas_in
-
-Blog: helloshreyas.in
+https://bio.link/helloshreyas
