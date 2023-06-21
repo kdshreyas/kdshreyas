@@ -1,4 +1,4 @@
-Hey fellow techies! Welcome to my GitHub hub, where I'm on an exciting learning adventure. As an eager learner in the realm of tech, I'm here to explore, experiment, and expand my knowledge.
+Hey fellow techies! Welcome to my profile, where I'm on an exciting learning adventure. As an eager learner in the realm of tech, I'm here to explore, experiment, and expand my knowledge.
 
 With a keen interest in data science, I'm constantly diving into complex datasets, uncovering insights, and seeking innovative solutions. Embracing the ever-evolving nature of technology, I'm driven by the thrill of unraveling new possibilities.
 
