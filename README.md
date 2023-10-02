@@ -1,8 +1,8 @@
 Passionate Data Science Professional | Tech Enthusiast
 
-👋 Hello, fellow techies! Welcome to my GitHub profile. I'm Shreyas, a dedicated data scientist with a passion for creating innovative solutions and exploring the vast world of technology.
+👋 Hello, fellow techies! I'm Shreyas, a dedicated data scientist with a passion for creating innovative solutions and exploring the vast world of technology.
 
-💻 I specialize in Python and Machine Learning, thriving on tackling challenging problems to build robust and scalable applications. I emphasize code quality, maintainability, and continuous improvement in my work.
+💻 I am interested in Python and Machine Learning, thriving on tackling challenging problems to build robust and scalable applications. I emphasize code quality, maintainability, and continuous improvement in my work.
 
 ✨ If you're interested in collaborating on an exciting project or discussing anything tech-related, feel free to reach out to me. Let's connect and create something amazing together!
 
