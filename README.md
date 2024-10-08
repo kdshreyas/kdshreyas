@@ -7,5 +7,5 @@ Passionate Data Science Professional | Tech Enthusiast
 ✨ If you're interested in collaborating on an exciting project or discussing anything tech-related, feel free to reach out to me. Let's connect and create something amazing together!
 
 
-Let's connect --> [here](https://bio.link/helloshreyas)
+for more info [visit here]([https://bio.link/helloshreyas](https://helloshreyas.com/bio))
 
