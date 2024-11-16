@@ -1,6 +1,21 @@
-Data Scientist | Python, Machine Learning, Deep Learning, AI
+👋 Hello! I'm Shreyas Kulkarni
+🔬 Data Scientist | Python | Machine Learning | AI | AWS Certified
 
-I’m passionate about building innovative solutions, particularly in AI/ML. With 3+ years of experience, I specialize in Python, machine learning, deep learning, and computer vision. I’ve developed end-to-end models for image classification, NLP, and recommendation systems, and led projects that significantly improved accuracy and efficiency in production environments.
+With 3+ years of experience in Data Science, I specialize in building practical, business-focused solutions leveraging Python, Machine Learning, and Deep Learning. I've developed end-to-end data pipelines, NLP models, and computer vision solutions while collaborating with global teams to deliver impactful results.
+
+📚 What I Do:
+
+- Build and optimize ML models (CNN, Vision Transformers, NLP, and more)
+- Develop dynamic data pipelines for real-world use cases
+- Enhance processes with LLMs using LangChain and OpenAI GPT models
+- Share knowledge via blogs and publications
+
+🎓 Certifications:
+
+- AWS Certified Cloud Practitioner
+- Machine Learning Specialization
+
+Let’s connect to discuss technology, data, and AI!
 
 📧 Contact: shreyask.contact@gmail.com
 For more info [visit here](https://helloshreyas.com/bio)
