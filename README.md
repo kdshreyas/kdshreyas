@@ -1,22 +1,8 @@
-👋 Hello! I'm Shreyas Kulkarni
-🔬 Data Scientist | Python | Machine Learning | AI | AWS Certified
+# Shreyas Kulkarni
 
-With 3+ years of experience in Data Science, I specialize in building practical, business-focused solutions leveraging Python, Machine Learning, and Deep Learning. I've developed end-to-end data pipelines, NLP models, and computer vision solutions while collaborating with global teams to deliver impactful results.
+**Data Scientist | Generative AI | Machine Learning | AI Solutions Architect**
 
-📚 What I Do:
+I design and deploy scalable, real-world AI systems using Python, ML, DL, and GenAI. From data pipelines to intelligent apps, my focus is on simplicity, reliability, and impact.
 
-- Build and optimize ML models (CNN, Vision Transformers, NLP, and more)
-- Develop dynamic data pipelines for real-world use cases
-- Enhance processes with LLMs using LangChain and OpenAI GPT models
-- Share knowledge via blogs and publications
-
-🎓 Certifications:
-
-- AWS Certified Cloud Practitioner
-- Machine Learning Specialization
-
-Let’s connect to discuss technology, data, and AI!
-
-📧 Contact: shreyask.contact@gmail.com
-For more info [visit here](https://helloshreyas.com/bio)
-
+📧 Reach me at: shreyask.contact@gmail.com  
+🔗 [More about me](https://helloshreyas.com/bio)
